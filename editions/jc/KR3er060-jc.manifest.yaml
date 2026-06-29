@@ -1,0 +1,504 @@
+canonical_identifier: bkk:krp/KR3er060/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er060/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學真傳
+  identifiers:
+    krp: KR3er060
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er060.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er060_000-jc.yaml, hash: 'sha256:d2cc9d7d485a0db943b95d77baf4584b6036a77fd0931455f6cb2394524a8904'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er060_000-jc.markers.yaml, hash: 'sha256:6bb9581aa10936ea4fa392f76126b8854e114ebf4d459d53e287a42493f9da9d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 358
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d3.h1s1
+    span:
+    - front
+    - 358
+    - 800
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 97
+  label: 高士宗先生手授醫學真傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d5.h1s1
+    span:
+    - body
+    - 97
+    - 300
+  label: 醫道失傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d6.h1s1
+    span:
+    - body
+    - 300
+    - 424
+  label: 醫門經論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d7.h1s1
+    span:
+    - body
+    - 424
+    - 634
+  label: 五運六氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d8.h1s1
+    span:
+    - body
+    - 634
+    - 1033
+  label: 六淫外感
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d9.h1s1
+    span:
+    - body
+    - 1033
+    - 1135
+  label: 七情內傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d10.h1s1
+    span:
+    - body
+    - 1135
+    - 1908
+  label: 臟腑經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d11.h1s1
+    span:
+    - body
+    - 1908
+    - 2492
+  label: 三焦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d12.h1s1
+    span:
+    - body
+    - 2492
+    - 2639
+  label: 命門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d13.h1s1
+    span:
+    - body
+    - 2639
+    - 3126
+  label: 氣血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d14.h1s1
+    span:
+    - body
+    - 3126
+    - 3233
+  label: 水火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d15.h1s1
+    span:
+    - body
+    - 3233
+    - 3442
+  label: 陰陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d16.h1s1
+    span:
+    - body
+    - 3442
+    - 5168
+  label: 部位
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d17.h1s1
+    span:
+    - body
+    - 5168
+    - 5431
+  label: 原病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d18.h1s1
+    span:
+    - body
+    - 5431
+    - 5623
+  label: 治病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d19.h1s1
+    span:
+    - body
+    - 5623
+    - 5875
+  label: 方藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d20.h1s1
+    span:
+    - body
+    - 5875
+    - 6653
+  label: 嬰兒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d21.h1s1
+    span:
+    - body
+    - 6653
+    - 7272
+  label: 痘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d22.h1s1
+    span:
+    - body
+    - 7272
+    - 8755
+  label: 瘄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d22d4
+    span:
+    - body
+    - 7813
+    - 8755
+  label: 附案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d23.h1s1
+    span:
+    - body
+    - 8755
+    - 9475
+  label: 傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d24.h1s1
+    span:
+    - body
+    - 9475
+    - 9755
+  label: 發熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d25.h1s1
+    span:
+    - body
+    - 9755
+    - 10124
+  label: 惡寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d26.h1s1
+    span:
+    - body
+    - 10124
+    - 10781
+  label: 頭痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d27.h1s1
+    span:
+    - body
+    - 10781
+    - 11666
+  label: 辨舌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d28.h1s1
+    span:
+    - body
+    - 11666
+    - 12960
+  label: 咳嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d29.h1s1
+    span:
+    - body
+    - 12960
+    - 14501
+  label: 瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d30.h1s1
+    span:
+    - body
+    - 14501
+    - 15242
+  label: 暑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d31.h1s1
+    span:
+    - body
+    - 15242
+    - 15896
+  label: 痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d32.h1s1
+    span:
+    - body
+    - 15896
+    - 16610
+  label: 喘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d33.h1s1
+    span:
+    - body
+    - 16610
+    - 17077
+  label: 呃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d34.h1s1
+    span:
+    - body
+    - 17077
+    - 17463
+  label: 嚏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d35.h1s1
+    span:
+    - body
+    - 17463
+    - 18278
+  label: 脹腫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d36.h1s1
+    span:
+    - body
+    - 18278
+    - 18451
+  label: 蠱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d37.h1s1
+    span:
+    - body
+    - 18451
+    - 18938
+  label: 隔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d38.h1s1
+    span:
+    - body
+    - 18938
+    - 19489
+  label: 吐血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d39.h1s1
+    span:
+    - body
+    - 19489
+    - 19797
+  label: 衄血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d40.h1s1
+    span:
+    - body
+    - 19797
+    - 19987
+  label: 便血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d41.h1s1
+    span:
+    - body
+    - 19987
+    - 20834
+  label: 心腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d42.h1s1
+    span:
+    - body
+    - 20834
+    - 21212
+  label: 中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d43.h1s1
+    span:
+    - body
+    - 21212
+    - 21618
+  label: 胎產
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d44.h1s1
+    span:
+    - body
+    - 21618
+    - 23227
+  label: 用藥大略
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d45.h1s1
+    span:
+    - body
+    - 23227
+    - 26666
+  label: 辨藥大略
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d46.h1s1
+    span:
+    - body
+    - 26666
+    - 28004
+  label: 診脈大法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d47.h1s1
+    span:
+    - body
+    - 28004
+    - 28582
+  label: 先生自述
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er060_jc_000-d48.h1s1
+    span:
+    - body
+    - 28582
+    - 28883
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:03a3af387be9ff387db99f0b8917055bc7ac0790cbeadacd7cbc7ea48ec389d6
